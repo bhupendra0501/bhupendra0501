@@ -1,6 +1,6 @@
 # Hi, I'm Bhupendra Chaudhary 👋
 
-**Senior Backend & AI Engineer** | Python · FastAPI · PHP · Laravel · LangChain | 10+ Years
+**Senior Backend Engineer** | Python · FastAPI · PHP · Laravel · AI Agents • LLMs | 10+ Years
 
 📍 Varanasi, India 🇮🇳 &nbsp;|&nbsp; 🌐 [bhupendra0501.github.io](https://bhupendra0501.github.io)
 
